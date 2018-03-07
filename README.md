@@ -1,3 +1,3 @@
 # My Personal Blog
 
-My personal blog and github mess-about
+My personal blog and github mess-about.
