@@ -1,5 +1,5 @@
 baseURL = "http://rtaylor.info"
 languageCode = "en-us"
 title = "rtaylor.info"
-theme = "basics"
+theme = "one"
 publishDir = "docs"
